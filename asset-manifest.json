@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BalaMuruganGM/Task5/static/css/main.d2b3ad4e.css",
-    "main.js": "/BalaMuruganGM/Task5/static/js/main.6e0f19f3.js",
-    "index.html": "/BalaMuruganGM/Task5/index.html",
-    "main.d2b3ad4e.css.map": "/BalaMuruganGM/Task5/static/css/main.d2b3ad4e.css.map",
-    "main.6e0f19f3.js.map": "/BalaMuruganGM/Task5/static/js/main.6e0f19f3.js.map"
+    "main.css": "/Task5/static/css/main.d2b3ad4e.css",
+    "main.js": "/Task5/static/js/main.6e0f19f3.js",
+    "index.html": "/Task5/index.html",
+    "main.d2b3ad4e.css.map": "/Task5/static/css/main.d2b3ad4e.css.map",
+    "main.6e0f19f3.js.map": "/Task5/static/js/main.6e0f19f3.js.map"
   },
   "entrypoints": [
     "static/css/main.d2b3ad4e.css",
